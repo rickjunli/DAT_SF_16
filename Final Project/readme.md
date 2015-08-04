@@ -11,3 +11,4 @@ I'm into photography, music, architecture, soccer and Vespas.
 
 You can reach me at joshuaduyan@gmail.com
 
+#Rick's Comments for HW1: nice mixes!
