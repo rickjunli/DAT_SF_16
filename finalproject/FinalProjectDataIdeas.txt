@@ -1,0 +1,12 @@
+GA Data Science Final Project Title and Data Source:
+
+I have three possible ideas and I have not fully decided on which one:
+
+1. ATP tennis match results since 2000. Source: http://www.tennis-data.co.uk
+
+2. Yelp academic challenge data. Source: http://www.yelp.com
+
+3. User data from my current employer. 
+
+
+
